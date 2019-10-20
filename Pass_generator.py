@@ -8,5 +8,6 @@ for x in range (10):
     password.append(lst[random.randint(0,87)])
 password = "".join(password)
 print(password)
+
 # Simple version (update later)
 
