@@ -1,5 +1,5 @@
 # HelloOwnWorld 13.02.20
-# A simple program to change wallpapers during the day
+# A simple program to change wallpapers during the day (Windows)
 import time
 import ctypes
 SPI_SETDESKWALLPAPER = 20
